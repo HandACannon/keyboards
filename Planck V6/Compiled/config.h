@@ -54,6 +54,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PERMISSIVE_HOLD
 #define TAPPING_TERM_PER_KEY
 #define AUDIO_CLICKY
-#define AUDIO_CLICKY_FREQ_RANDOMNESS 1.0f
 #define AUDIO_INIT_DELAY
 #define STARTUP_SONG SONG(ALL_STAR_CUSTOM)
